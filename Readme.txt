@@ -1,0 +1,1 @@
+I want to write a python script to monitor the folder and copy the latest posted files.
